@@ -4,11 +4,7 @@ Interview-IQ is an AI-powered interview practice platform that simulates real in
 
 ---
 
-## 🚀 Live Demo
-*(Add later after deployment)*  
-https://your-live-demo-link.com
 
----
 
 ## ✨ Features
 
@@ -65,48 +61,74 @@ Interview-IQ/
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the repository
-```bash
+⚙️ Setup Instructions
+1. Clone the repo
 git clone https://github.com/Sreelakshmii-R/Interview-IQ.git
 cd Interview-IQ
-2️⃣ Install dependencies
-Frontend
-npm install
-Backend
+2. Install dependencies
+Backend setup
 cd server
 npm install
-3️⃣ Setup environment variables
+3. Create environment variables
+Backend .env
 
-Create .env files:
+Create this file:
 
 server/.env
+
+Add:
+
 GROQ_API_KEY=your_api_key_here
 PORT=5000
-frontend .env (if needed)
+Frontend .env (optional)
+
+Create this file in root:
+
+.env
+
+Add:
+
 REACT_APP_API_URL=http://localhost:5000
-4️⃣ Run the project
-Start backend
+4. Run backend server
 cd server
 npm start
-Start frontend
+5. Run frontend app
+
+Open a new terminal:
+
+cd ..
+npm install
 npm start
+▶️ Final Running Setup
+
+You must run both together:
+
+🖥️ Backend → server terminal
+🌐 Frontend → main project terminal
+
+⚠️ QUICK REMINDER
+- .env file MUST be inside server/
+- Never push .env to GitHub
+- If frontend .env not needed, you can skip it
+
 📊 Key Modules
-Interview Engine → Generates AI-based questions
-Evaluation Engine → Scores answers using AI
-Report System → Generates feedback + performance score
-History System → Stores past interviews
+- Interview Engine → Generates AI-based questions
+- Evaluation Engine → Scores answers using AI
+- Report System → Generates feedback + performance score
+- History System → Stores past interviews
+
 🔐 Security Notes
-.env files are excluded using .gitignore
-API keys must never be exposed in GitHub commits
+- Environment variables are excluded using .gitignore
+- API keys are never committed to GitHub
+- Secure backend API handling implemented
+
 🎯 Future Improvements
-🎙️ Voice-based interviews
-📹 Video interview simulation
-🌍 Multi-language support
-📱 Mobile-friendly UI improvements
-☁️ Deployment (Vercel + Render)
-👩‍💻 Author
+- 🎙️ Voice-based interviews
+- 📹 Video interview simulation
+- 🌍 Multi-language support
+- 📱 Mobile-friendly UI improvements
+- ☁️ Deployment (Vercel + Render)
+- 👩‍💻 Author
 
 Sreelakshmii Ramesh
 GitHub: Sreelakshmii-R

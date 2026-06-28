@@ -7,16 +7,14 @@ import Features from "./components/Features";
 import Report from "./components/Report";
 import { generateReport } from "./services/reportService";
 import LoadingScreen from "./components/LoadingScreen";
-import Login from "./components/Login";
+import Login from "./components/Login.jsx";
 import { getCurrentUser } from "./services/authService";
 import { saveInterview } from "./services/interviewHistoryService";
 import InterviewReplay from "./components/InterviewReplay";
 import InterviewHistory from "./components/InterviewHistory";
 import Dashboard from "./components/Dashboard";
 import { getInterviewHistory } from "./services/interviewHistoryService";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import HomePage from "./pages/HomePage";
-import HistoryPage from "./pages/HistoryPage";
+import { BrowserRouter } from "react-router-dom";
 import { signOut } from "./services/authService";
 
 
