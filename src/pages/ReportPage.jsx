@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { supabase } from "../lib/supabase";
+import supabase from "../lib/supabase";
 import { useEffect, useState } from "react";
 import Report from "../components/Report";
 
