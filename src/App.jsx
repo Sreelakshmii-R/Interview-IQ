@@ -139,7 +139,7 @@ function App() {
     const sessionId = Date.now();
 
     // 🔥 Step 3: call backend directly (IMPORTANT FIX)
-    const res = await fetch(`${import.meta.env.VITE_API_URL}/interview/questions`, {
+    const res = await fetch(`${import.meta.env.VITE_API_URL}/analyze-resume`), {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
