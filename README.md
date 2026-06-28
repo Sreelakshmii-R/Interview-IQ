@@ -88,7 +88,7 @@ Create this file in root:
 
 Add:
 
-REACT_APP_API_URL=http://localhost:5000
+REACT_APP_API_URL=https://interview-iq-backend-qb8p.onrender.com
 4. Run backend server
 cd server
 npm start

@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api";
+const API = import.meta.env.VITE_API_URL;
 
 export async function generateQuestions(profile, role) {
   const response = await fetch(`${API}/interview/generate`, {

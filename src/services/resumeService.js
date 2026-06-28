@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api";
+const API = import.meta.env.VITE_API_URL;
 
 export async function analyzeResume(resume, role) {
   const response = await fetch(`${API}/analyze-resume`, {
@@ -22,6 +22,6 @@ export async function analyzeResume(resume, role) {
   if (!response.ok) {
     throw new Error(data.message || "Resume analysis failed");
   }
-
+console.log("ENV:", import.meta.env.VITE_API_URL);
   return data;
 }
