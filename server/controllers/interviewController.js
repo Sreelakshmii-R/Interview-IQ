@@ -27,7 +27,7 @@ Role: ${role}
 Candidate Level: ${profile?.level || "junior"}
 
 IMPORTANT RULES:
-- Generate ONLY 2 questions.
+- Generate ONLY 5 questions.
 - NEVER repeat question patterns from previous interviews
 - Make every question different in structure and focus
 - Simulate a real interviewer experience
@@ -55,7 +55,7 @@ Return ONLY valid JSON:
   ]
 }
 
-Generate 2 UNIQUE question.
+Generate 5 UNIQUE questions.
 Do not repeat formats.
 `;
 
