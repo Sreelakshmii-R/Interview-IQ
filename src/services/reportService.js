@@ -1,7 +1,7 @@
 const API = import.meta.env.VITE_API_URL;
 
 export async function generateReport(role, profile, interviewResults) {
-  const response = await fetch(`${API}/report/generate`, {
+  const response = await fetch(`${API}/api/report/generate`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

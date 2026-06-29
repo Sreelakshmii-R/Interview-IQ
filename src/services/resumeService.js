@@ -1,7 +1,7 @@
 const API = import.meta.env.VITE_API_URL;
 
 export async function analyzeResume(resume, role) {
-  const response = await fetch(`${API}/analyze-resume`, {
+  const response = await fetch(`${API}/api/analyze-resume`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
