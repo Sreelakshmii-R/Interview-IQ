@@ -185,7 +185,7 @@ https://interview-iq-backend-qb8p.onrender.com
 Clone the repository
 
 ```bash
-git clone https://github.com/Sreelakshmii-R/interview-iq.git
+git clone https://github.com/Sreelakshmii-R/Interview-IQ.git
 ```
 
 Go to the project
