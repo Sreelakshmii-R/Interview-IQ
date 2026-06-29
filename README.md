@@ -191,7 +191,7 @@ git clone https://github.com/Sreelakshmii-R/Interview-IQ.git
 Go to the project
 
 ```bash
-cd interview-iq
+cd Interview-IQ
 ```
 
 Install frontend dependencies
