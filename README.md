@@ -169,13 +169,13 @@ The application analyzes a candidate's resume using AI, generates role-specific 
 **Frontend**
 
 ```
-[https://your-vercel-link.vercel.app] (https://interview-iq-chi.vercel.app/)
+https://interview-iq-chi.vercel.app/
 ```
 
 **Backend**
 
 ```
-[https://your-render-link.onrender.com] (https://interview-iq-backend-qb8p.onrender.com)
+https://interview-iq-backend-qb8p.onrender.com
 ```
 
 ---
