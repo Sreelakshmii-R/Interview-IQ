@@ -122,47 +122,26 @@ The application analyzes a candidate's resume using AI, generates role-specific 
 
 ### Home Page
 
-```
-<img width="1860" height="772" alt="Screenshot 2026-06-29 160956" src="https://github.com/user-attachments/assets/7f2e5076-8020-4d6b-8020-a476346a00d0" />
-```
-
----
+<img width="500" height="200" alt="Screenshot 2026-06-29 160956" src="https://github.com/user-attachments/assets/7f2e5076-8020-4d6b-8020-a476346a00d0" />
 
 ### Resume Upload
 
-```
-<img width="1767" height="888" alt="image" src="https://github.com/user-attachments/assets/a5c40ef5-0b5a-41f7-815c-cf08e1293552" />
-```
-
----
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/a5c40ef5-0b5a-41f7-815c-cf08e1293552" />
 
 ### Interview Screen
 
-```
-<img width="1895" height="908" alt="image" src="https://github.com/user-attachments/assets/d7daa800-d611-4399-8694-430481bdd450" />
-```
-
----
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d7daa800-d611-4399-8694-430481bdd450" />
 
 ### AI Report
 
-```
-<img width="1851" height="876" alt="image" src="https://github.com/user-attachments/assets/2850b7c1-b978-48aa-b71e-3f4638d13a86" />
-<img width="1737" height="882" alt="image" src="https://github.com/user-attachments/assets/fa3b660f-0fd4-4214-bc77-b6cbe3cd78da" />
-<img width="1752" height="906" alt="image" src="https://github.com/user-attachments/assets/eec5734f-657d-4951-ab21-d19297bd0041" />
-<img width="1802" height="810" alt="image" src="https://github.com/user-attachments/assets/74e3fcf3-8fa2-4afd-a1d9-2b986350f188" />
-
-```
-
----
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/2850b7c1-b978-48aa-b71e-3f4638d13a86" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/fa3b660f-0fd4-4214-bc77-b6cbe3cd78da" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/eec5734f-657d-4951-ab21-d19297bd0041" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/74e3fcf3-8fa2-4afd-a1d9-2b986350f188" />
 
 ### Dashboard
 
-```
-<img width="1747" height="811" alt="image" src="https://github.com/user-attachments/assets/be8ad63c-588d-4f4d-a39d-8394814425ca" />
-```
-
----
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/be8ad63c-588d-4f4d-a39d-8394814425ca" />
 
 # 🌐 Live Demo
 
